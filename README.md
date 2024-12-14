@@ -61,11 +61,11 @@ This tutorial is about Setting up Development Environment for Matter in Ubuntu O
 
 📕 **YouTube Video Links**  
 
-- Please note. This tutorial is divided into two parts. In the first part, we will see how to install, set-up, and configure ESP-Matter-SDK, in Ubuntu OS. Then, in next part. The part 2. With the use of ESP-IDF via command-line approach, We will see demo of how to program 2 different ESP32 boards with Matter-Light application firmware. We will program these ESP32 boards as Matter-accessories or end-devices.
+- This tutorial is divided into two parts. In the first part, we will see how to install, set-up, and configure ESP-Matter-SDK in Ubuntu OS. Then, in next part. The part 2. With the use of ESP-IDF via command-line approach, We will see demo of how to program 2 different ESP32 boards with Matter-Light application firmware. We will program these ESP32 boards as Matter-accessories or end-devices.
 
 ▶️  [Tutorial]  Setup Matter Development Environment in Linux - I  - 🔗  https://youtu.be/NFyD5MwxVGw  
 
-▶️  [Tutorial]  Setup Matter Development Environment in Linux - II  - 🔗  
+▶️  [Tutorial]  Setup Matter Development Environment in Linux - II  - 🔗  https://youtu.be/jXPyMQjTEIY  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
