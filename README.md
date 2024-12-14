@@ -70,6 +70,9 @@ This tutorial is about Setting up Development Environment for Matter in Ubuntu O
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
  
+🌐 ESP-Matter - 🔗 https://docs.espressif.com/projects/esp-matter/en/latest/esp32/  
+🌐 ESP-Matter Repository - 🔗 https://github.com/espressif/esp-matter   
+🌐 CHIP Repository - 🔗 https://github.com/project-chip/connectedhomeip/   
 🌐 ESP-IDF - 🔗 https://www.espressif.com/en/products/sdks/esp-idf  
 🌐 ESP-IDF - 🔗 https://idf.espressif.com/  
 📙 ESP-IDF Docs 🔗 https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html  
