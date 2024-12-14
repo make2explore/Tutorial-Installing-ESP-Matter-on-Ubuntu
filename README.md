@@ -1,7 +1,7 @@
 # Tutorial-Setuo-ESP-Matter-SDK-in-Linux
  How to Setup ESP-Matter SDK. Matter Development Environment setup in Ubuntu OS  
   
-<img src="/Images/Matter-IDF-thumb-1.png" height="250" > <img src="/Images/Matter-IDF-thumb-2.png" height="250" > 
+<img src="/Images/Matter-IDF-thumb-1.png" height="124" > <img src="/Images/Matter-IDF-thumb-2.png" height="124" > 
   
 **Matter** is a unified IP-based connectivity protocol that is designed to connect and build open, reliable and secure IoT ecosystems. This new technology and connectivity standard enables communication among a wide range of smart devices. Matter supports IP connectivity over Wi-Fi, Thread and Ethernet.  
 
